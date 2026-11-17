@@ -411,15 +411,12 @@ Always-on agents you reach over chat or a desktop app. They remember across sess
 A watchlist of projects without a push in the last few months (checked 2026-07-28). They stay here until they're active again, then move back up.
 
 - [1code](https://github.com/21st-dev/1code) - Orchestration layer for Claude Code and Codex. _(last commit 2026-03; archived)_
-- [agentsmesh](https://github.com/AgentsMesh/AgentsMesh) - Remote AI workstations with PTY sandboxes and worktree isolation, coordinating across channels and pod bindings. Claude Code, Codex, Gemini CLI, Aider, OpenCode.
 - [antfarm](https://github.com/snarktank/antfarm) - Build your agent team in OpenClaw with one command. _(last commit 2026-02)_
 - [babyagi3](https://github.com/yoheinakajima/babyagi3) - A minimal AI agent you configure once, then run through natural language. _(last commit 2026-03)_
 - [cashclaw](https://github.com/moltlaunch/cashclaw) - An autonomous agent that takes work, does work, gets paid, and gets better at it. _(last commit 2026-03)_
 - [clawe](https://github.com/getclawe/clawe) - Multi-agent coordination system: think Trello for OpenClaw agents. _(last commit 2026-02)_
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Orchestrate multiple Codex agents across local workspaces. _(last commit 2026-03)_
-- [Dex](https://github.com/francescoalemanno/dex) - Human-gated planning, multi-reviewer code review, and dead-end-aware research loops, shipped as cross-platform binaries for 7 CLI backends.
 - [gnap](https://github.com/farol-team/gnap) - Git-native agent protocol coordinating agents through a shared repo as a task board, with no orchestrator process. _(last commit 2026-03)_
-- [Ignite](https://github.com/ker0olos/ignite) - Desktop app built on pi that runs each conversation in its own git worktree with bash in an OS sandbox, hands tasks off to agents that come back as pull requests, and lets you draw on screenshots to show what's wrong. macOS, Linux, Windows. Claude and ChatGPT subscriptions, plus any provider pi supports.
 - [lettabot](https://github.com/letta-ai/lettabot) - Personal assistant that remembers everything. _(last commit 2026-05; archived, replaced by Letta Code)_
 - [mercury](https://github.com/Michaelliv/mercury) - Personal AI assistant that lives where you chat. _(last commit 2026-03; archived)_
 - [opengoat](https://github.com/marian2js/opengoat) - Build organizations of OpenClaw agents coordinating across Codex, Claude Code, Cursor, and OpenCode. _(last commit 2026-04)_
